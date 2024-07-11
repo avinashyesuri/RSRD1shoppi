@@ -21,7 +21,7 @@ function App() {
       <Router>
    <Header/>
         <Routes>
-          <Route  exact path="/ProductListing" element={<ProductListing/>}/>
+          <Route  exact path="/" element={<ProductListing/>}/>
           <Route  exact path="/ProductListing/:productId" element={<ProductDetails/>}/>
           <Route >404 error found</Route>
 
