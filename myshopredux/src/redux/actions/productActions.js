@@ -17,9 +17,8 @@ export const selectedProducts = (products)=>{
     };
 };
 
-export const removalProducts = (products)=>{
+export const removalProducts = ()=>{
     return{
-        type:ActionTypes.REMOVAL_SEL_PRODUCTS,
-        payload:products
+        type:ActionTypes.REMOVAL_SEL_PRODUCTS
     };
 };

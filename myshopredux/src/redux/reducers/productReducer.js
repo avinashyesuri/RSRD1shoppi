@@ -21,10 +21,10 @@ export const selectedProductReducer = (state={}, {type, payload})=>{
     switch (type){
         case ActionTypes.SELECTED_PRODUCTS:
             return {...state, ...payload};  //existing state and payload
-
+        case ActionTypes.REMOVAL_SEL_PRODUCTS:
+            return {};  //existing state and payload
         default:
             return state;
         }
 };
-
 
