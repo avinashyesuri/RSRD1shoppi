@@ -10,3 +10,5 @@ This is a basic Shop Application built with React and Redux, utilizing the Fake 
 - Uses Axios for API calls
 - Basic styling with Semantic UI
 - Conditional loading option to display user details
+
+- ![image](https://github.com/user-attachments/assets/ec9d3197-dc8b-45b2-bf3d-0c1182664d4c)
