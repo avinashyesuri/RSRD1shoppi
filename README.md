@@ -1,6 +1,6 @@
 # Redux Shop Application
 
-This is a basic Shop Application built with React and Redux, utilizing the Fake Store API to fetch product data and display user details. The application uses Axios for API requests and Semantic UI for basic styling.
+This is a basic Shop Application built with React and Redux, utilizing the Fake Store API to fetch product data and display user details. The application uses Axios for API requests and Semantic UI for basic  styling.
 
 ## Features
 
