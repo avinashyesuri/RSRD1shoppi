@@ -11,7 +11,10 @@ This is a basic Shop Application built with React and Redux, utilizing the Fake 
 - Basic styling with Semantic UI
 - Conditional loading option to display user details
   
+# Category page 
 
 - ![image](https://github.com/user-attachments/assets/ea587ccf-6d75-4ff7-a007-a7714c752810)
 
+
+# Single attribute visualization
 - ![image](https://github.com/user-attachments/assets/ec9d3197-dc8b-45b2-bf3d-0c1182664d4c)
