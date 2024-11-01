@@ -13,6 +13,7 @@ This is a basic Shop Application built with React and Redux, utilizing the Fake 
   
 # Category page 
 
+
 - ![image](https://github.com/user-attachments/assets/ea587ccf-6d75-4ff7-a007-a7714c752810)
 
 
