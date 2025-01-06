@@ -11,6 +11,7 @@ This is a basic Shop Application built with React and Redux, utilizing the Fake 
 - Basic styling with Semantic UI
 - Conditional loading option to display user details
 
+
   
 # Category page 
 
